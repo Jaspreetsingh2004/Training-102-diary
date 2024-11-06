@@ -1,4 +1,4 @@
-Day 2: CSS Selectors and Specificity
+Day 8: CSS Selectors and Specificity
 
 Topic: Understanding CSS Selectors and Specificity
 
