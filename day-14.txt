@@ -1,4 +1,4 @@
-Day 8: CSS Grid Basics
+Day 14: CSS Grid Basics
 
 Topic: CSS Grid for Layouts
 
